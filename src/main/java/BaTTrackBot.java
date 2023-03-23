@@ -74,7 +74,7 @@ public class BaTTrackBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "6003971779:AAHVVxTw7p6kfs367v2XncCeetS5yeRW8N8";
+        return null;
 
     }
 
